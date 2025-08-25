@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
+
 # 📌 AI-Powered Data Scientist Job Search Engine
 
 Capstone Project for the Google x Kaggle 5-Day GenAI Intensive Course 2025

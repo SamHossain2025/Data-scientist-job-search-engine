@@ -2,13 +2,13 @@
   <img src="banner.png" alt="Project Banner" width="100%">
 </p>
 
-# 📌 AI-Powered Data Scientist Job Search Engine
+# 📦 AI-Powered Data Scientist Job Search Engine
 
 Capstone Project for the Google x Kaggle 5-Day GenAI Intensive Course 2025
 
 ---
 
-## 🤝 Author
+## 👥 Author
 
 Sam Hossain
 
@@ -27,7 +27,7 @@ https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 
 ---
 
-## 🚀 Features
+## 🧠 Key Features
 
 ✅ Scrapes real-time Data Scientist job listings from LinkedIn guest views
 ✅ Embeds job descriptions using Google Gemini (text-embedding-004)
@@ -48,7 +48,7 @@ https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 
 ---
 
-## 🧠 GenAI Capabilities Demonstrated
+## 🧪 GenAI Capabilities Demonstrated
 
 - Prompt Engineering & Structured Output
 - Embeddings & Semantic Search

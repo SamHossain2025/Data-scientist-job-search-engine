@@ -70,7 +70,7 @@ https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 
 ---
 
-## 🖼️ Visual Snapshots (below):
+## 🖼️ Visual Snapshots:
 Note: These slides are for visual summary only. Full details are in the PDF.
 
 ---

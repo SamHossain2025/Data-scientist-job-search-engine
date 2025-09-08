@@ -36,11 +36,8 @@ https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 Capstone Project for Google x Kaggle 5-Day GenAI Intensive 2025
 
 <p align="center">
-  <img src="2 Assets/Company1.png" width="80%">
   <img src="2 Assets/Company2.png" width="80%">
   <img src="2 Assets/Company3.png" width="80%">
-  <img src="2 Assets/Company4.png" width="80%">
-  <img src="2 Assets/Company5.png" width="80%">
 </p>
 
 

@@ -37,8 +37,9 @@ Check it out on Kaggle:
 
 https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 
-As part of ** <img src="2 Assets/Company3.png" width="80%"> **  
-
+<p align="center">
+As part of <img src="2 Assets/Company3.png" width="80%">
+</p>
 ---
 
 ## 🔍 Problem Statement

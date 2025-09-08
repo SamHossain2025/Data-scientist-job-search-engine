@@ -31,12 +31,15 @@
 ## 🔗 Live Notebook
 
 Check it out on Kaggle:
-https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
-
-Capstone Project for Google x Kaggle 5-Day GenAI Intensive 2025
-
 <p align="center">
   <img src="2 Assets/Company2.png" width="80%">
+</p>
+
+https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
+
+As part of 
+
+<p align="center">
   <img src="2 Assets/Company3.png" width="80%">
 </p>
 

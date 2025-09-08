@@ -30,10 +30,11 @@
 
 ## 🔗 Live Notebook
 
-Check it out on Kaggle:
 <p align="center">
   <img src="2 Assets/Company2.png" width="80%">
 </p>
+
+Check it out on Kaggle:
 
 https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
 

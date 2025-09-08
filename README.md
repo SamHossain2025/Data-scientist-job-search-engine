@@ -2,7 +2,7 @@
   <img src="2 Assets/Banner.png" width="100%">
 </p>
 
-# 🔍 AI-Powered Data Scientist Job Search Engine
+# 🔍 Personalized Job Search Engine for 'Data Scientist' Roles
 
 *Solving real-life job discovery with semantic search, intelligent matching, and GenAI reasoning—built from the ground up during the Google x Kaggle GenAI Capstone.*
 

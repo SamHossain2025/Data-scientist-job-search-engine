@@ -1,102 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Project Banner" width="100%">
-</p>
-
-# 📦 AI-Powered Data Scientist Job Search Engine
-
-Capstone Project for the Google x Kaggle 5-Day GenAI Intensive Course 2025
-
----
-
-## 👥 Author
-
-Sam Hossain
-
----
-
-## 🎯 Overview
-
-This project is an AI-powered job search engine designed to intelligently match data science job listings to a candidate profile using GenAI techniques. It was inspired by a personal challenge I faced while approaching graduation from my Master of Management Analytics program at Queen’s University.
-
----
-
-## 🔗 Live Notebook
-
-Check it out on Kaggle:
-https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
-
----
-
-## 🧠 Key Features
-
-✅ Scrapes real-time Data Scientist job listings from LinkedIn guest views
-✅ Embeds job descriptions using Google Gemini (text-embedding-004)
-✅ Stores and semantically matches listings with ChromaDB
-✅ Generates concise, JSON-based match explanations using Gemini
-✅ Prioritizes results by location and recency
-✅ Outputs a professional dark-mode HTML dashboard with clickable job links
-
----
-
-## 🧩 Technologies Used
-
-- Google Gemini (Generative AI)
-- ChromaDB (Vector Store)
-- BeautifulSoup + Requests (Web Scraping)
-- Pandas (Data processing)
-- HTML export for dashboard display
-
----
-
-## 🧪 GenAI Capabilities Demonstrated
-
-- Prompt Engineering & Structured Output
-- Embeddings & Semantic Search
-- Reasoning and explanation generation (JSON mode)
-- Production-minded MLOps workflow structure
-
----
-
-## 📅 Course Learnings Mapped
-
-| Day   | Learning                   | Application                          |
-| ----- | -------------------------- | ------------------------------------ |
-| Day 1 | Prompt Engineering         | Structured match reasoning           |
-| Day 2 | Embeddings & Vector Stores | Matching profile ↔ job               |
-| Day 3 | Agents & Modularity        | Pipeline structure                   |
-| Day 4 | Domain-Specific LLMs       | Tailoring to data science job search |
-| Day 5 | MLOps                      | System workflow, reusable outputs    |
-
-
----
-
-<<<<<<< HEAD
-=======
-## 🖼️ Visual Snapshots:
-Note: These slides are for visual summary only. Full details are in the PDF.
-
----
-
->>>>>>> origin/main
-## 📈 Results
-
-- Personalized recommendations for top 10 jobs
-- Clickable links, posting dates, and match reasoning
-- Built for high-frequency daily use
-- Ready to scale with Gemini’s paid API
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
   <img src="2 Assets/Banner.png" width="100%">
 </p>
 
@@ -104,7 +6,7 @@ Note: These slides are for visual summary only. Full details are in the PDF.
 
 *Solving real-life job discovery with semantic search, intelligent matching, and GenAI reasoning—built from the ground up during the Google x Kaggle GenAI Capstone.*
 
-* Dataset timing: **2024 April – 2024 May**
+* Dataset timing: **Real Time**
 * Topics covered: **Job Scraping, Embedding & Matching, JSON Output, HTML Rendering**
 * Models used: **Text Embedding + Gemini LLM Reasoning**
 * Skills demonstrated:
@@ -123,13 +25,31 @@ Note: These slides are for visual summary only. Full details are in the PDF.
 ## 👥 Authors
 
 **Sam Hossain**
+
+---
+
+## 🔗 Live Notebook
+
+Check it out on Kaggle:
+https://www.kaggle.com/code/hossainsam/data-scientist-job-search-engine
+
 Capstone Project for Google x Kaggle 5-Day GenAI Intensive 2025
+
+<p align="center">
+  <img src="2 Assets/Company1.png" width="80%">
+  <img src="2 Assets/Company2.png" width="80%">
+  <img src="2 Assets/Company3.png" width="80%">
+  <img src="2 Assets/Company4.png" width="80%">
+  <img src="2 Assets/Company5.png" width="80%">
+</p>
+
 
 ---
 
 ## 🔍 Problem Statement
 
 **Goal:**
+
 Build a personalized job search engine that identifies the best Data Scientist opportunities based on a candidate profile.
 
 **Challenges Addressed:**
@@ -139,8 +59,6 @@ Build a personalized job search engine that identifies the best Data Scientist o
 * Ranking based on location & time priority heuristics
 * Generating clean, explainable recommendations using Gemini LLM
 * Exporting results as dynamic, reusable HTML output
-
-This project is built out of my real-life challenge—I'm graduating from the Queen's MMA program and actively searching for data science roles. With so many listings and few truly relevant ones, I created this engine to automatically surface the jobs that actually fit me.
 
 ---
 
@@ -168,11 +86,6 @@ This project is built out of my real-life challenge—I'm graduating from the Qu
 **Model Verdict:**
 Gemini performed fast, accurate, and extremely context-aware matching + reasoning
 
-<p align="center">
-  <img src="2 Assets/Process1.png" width="80%">
-  <img src="2 Assets/Process2.png" width="80%">
-</p>
-
 ### 📊 Visualization & Output
 
 * HTML table rendered using Pandas + CSS
@@ -180,6 +93,16 @@ Gemini performed fast, accurate, and extremely context-aware matching + reasonin
 * Sorted by location and recency
 * Dark themed and responsive
 * Saved as external HTML for portfolio use
+
+<p align="center">
+  <img src="2 Assets/Process1.png" width="80%">
+  <img src="2 Assets/Process2.png" width="80%">
+  <img src="2 Assets/Process3.png" width="80%">
+  <img src="2 Assets/Process4.png" width="80%">
+  <img src="2 Assets/Process5.png" width="80%">
+  <img src="2 Assets/Process6.png" width="80%">
+</p>
+
 
 ---
 
@@ -189,11 +112,6 @@ Gemini performed fast, accurate, and extremely context-aware matching + reasonin
 * Structured GenAI output helps generate concise, contextual match reasoning
 * Vector DB makes this pipeline scalable for frequent daily usage
 
-<p align="center">
-  <img src="2 Assets/Findings1.png" width="80%">
-  <img src="2 Assets/Findings2.png" width="80%">
-</p>
-
 ---
 
 ## 💡 Key Recommendations
@@ -202,10 +120,6 @@ Gemini performed fast, accurate, and extremely context-aware matching + reasonin
 * Run the search pipeline daily via scheduled Lambda or Colab Cron
 * Integrate apply buttons + email forwarding to automate applications
 
-<p align="center">
-  <img src="2 Assets/Recommendation1.png" width="80%">
-  <img src="2 Assets/Recommendation2.png" width="80%">
-</p>
 
 ---
 
@@ -213,7 +127,6 @@ Gemini performed fast, accurate, and extremely context-aware matching + reasonin
 
 <p align="center">
   <img src="2 Assets/Dashboard1.png" width="80%">
-  <img src="2 Assets/Dashboard2.png" width="80%">
 </p>
 
 ---
